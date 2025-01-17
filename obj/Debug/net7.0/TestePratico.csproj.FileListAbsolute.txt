@@ -1,0 +1,15 @@
+C:\ProjetosPessoais\TestePratico\TestePratico\bin\Debug\net7.0\TestePratico.exe
+C:\ProjetosPessoais\TestePratico\TestePratico\bin\Debug\net7.0\TestePratico.deps.json
+C:\ProjetosPessoais\TestePratico\TestePratico\bin\Debug\net7.0\TestePratico.runtimeconfig.json
+C:\ProjetosPessoais\TestePratico\TestePratico\bin\Debug\net7.0\TestePratico.dll
+C:\ProjetosPessoais\TestePratico\TestePratico\bin\Debug\net7.0\TestePratico.pdb
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.csproj.AssemblyReference.cache
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.AssemblyInfo.cs
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.dll
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\refint\TestePratico.dll
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.pdb
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\TestePratico.genruntimeconfig.cache
+C:\ProjetosPessoais\TestePratico\TestePratico\obj\Debug\net7.0\ref\TestePratico.dll
